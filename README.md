@@ -43,5 +43,7 @@ The project uses face detection to identify faces in images or video frames. Det
 The project requires the following Python packages, which can be installed using the provided requirements.txt file:
 
 opencv-python==4.6.0.66
+
 mediapipe==0.9.0
+
 Make sure to install the required packages before running the script.
